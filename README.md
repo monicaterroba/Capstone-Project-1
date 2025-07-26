@@ -1,2 +1,1 @@
-# Capstone-Project-1
-Capstone Project 1
+A comprehensive study by Monica Flores Terroba exploring advanced techniques for recommending personalized courses on learning platforms. This capstone project integrates collaborative filtering, content-based filtering, clustering, and neural networks to analyze user-course interactions and deliver relevant recommendations while balancing accuracy, diversity, and novelty.
